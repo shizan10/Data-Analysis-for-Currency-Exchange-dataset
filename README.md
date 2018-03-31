@@ -1,0 +1,2 @@
+# Data-Analysis-for-Currency-Exchange-dataset
+The data analysis was done using data from the bank API. In this project I analyzed the Currency Exchange Rate. I write a python code to scrap the data using API. Data cleaning, manipulation and data transformation was done with use of pandas. Additionally, there are many visualization, where some of them were prepared with matplotlib libraries and describe the relationship between different currencies.
